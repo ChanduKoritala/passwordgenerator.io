@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f9fbfd;
+
+}
+
+#password {
+    border: 2px dashed #c0c7cf;
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+    color: hsl(206, 17%, 28%);
+    font-size: 18px;
+    margin: 0 auto;
+    padding: 30px 40px;
+    width: 100%;    
+
+} 
+
+header {
+    text-align: center;
+    padding: 15px;
+    padding-top: 50px;
+}
+
